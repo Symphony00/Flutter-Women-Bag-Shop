@@ -2,15 +2,5 @@
 
 A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![mockup-featuring-two-iphones-x-floating-against-a-solid-color-background-28764](https://github.com/Symphony00/Flutter-Women-Bag-Shop/assets/115981065/ca3b471f-c186-4227-8a68-1264cf89b64d)
